@@ -1,0 +1,25 @@
+name: BreezeGrappler
+main: me.dkim19375.breezegrappler.BreezeGrappler
+version: ${version}
+author: dkim19375
+description: A plugin that allows you to grapple to a block with a lead
+api-version: "1.20"
+depend:
+  - PlaceholderAPI
+${libraries: libs}
+
+commands:
+  breezegrappler:
+    description: Main command
+    permission: breezegrappler.command
+    aliases:
+      - bg
+      - grappler
+
+permissions:
+  breezegrappler.command:
+    description: Allows you to use the main command
+  breezegrappler.reload:
+    description: Allows you to reload the plugin
+  breezegrappler.cooldown.bypass:
+    description: Bypass the cooldown
