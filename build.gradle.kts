@@ -8,7 +8,7 @@ plugins {
 
     id("org.cadixdev.licenser") version "0.6.1"
     id("io.papermc.paperweight.userdev") version "1.5.5"
-    id("com.github.johnrengelman.shadow") version "7.1.2"
+    id("com.github.johnrengelman.shadow") version "8.1.1"
     id("io.github.dkim19375.dkim-gradle") version "1.2.1"
 }
 
