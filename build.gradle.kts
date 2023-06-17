@@ -71,7 +71,7 @@ tasks {
                 }
             },
         ),
-        javaVersion = "17",
+        javaVersion = JavaVersion.VERSION_17,
     )
 
     shadowJar {
