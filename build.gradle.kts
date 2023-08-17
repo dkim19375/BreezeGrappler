@@ -31,10 +31,10 @@ dependencies {
 
     compileOnly("me.clip:placeholderapi:2.11.2")
     compileOnly("org.jetbrains:annotations:24.0.1")
-    compileOnly("dev.jorel:commandapi-bukkit-kotlin:9.0.3")
+    compileOnly("dev.jorel:commandapi-bukkit-kotlin:9.1.0")
 
     compileForSpigot("net.kyori:adventure-extra-kotlin:4.14.0")
-    compileForSpigot("dev.jorel:commandapi-bukkit-kotlin:9.0.3")
+    compileForSpigot("dev.jorel:commandapi-bukkit-kotlin:9.1.0")
     compileForSpigot("org.jetbrains.kotlin:kotlin-stdlib:1.9.0")
     compileForSpigot("org.jetbrains.kotlin:kotlin-reflect:1.9.0")
     compileForSpigot("org.jetbrains.kotlinx:kotlinx-serialization-core:1.5.1")
