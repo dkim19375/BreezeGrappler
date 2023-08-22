@@ -37,7 +37,7 @@ dependencies {
     compileForSpigot("dev.jorel:commandapi-bukkit-kotlin:9.1.0")
     compileForSpigot("org.jetbrains.kotlin:kotlin-stdlib:1.9.0")
     compileForSpigot("org.jetbrains.kotlin:kotlin-reflect:1.9.0")
-    compileForSpigot("org.jetbrains.kotlinx:kotlinx-serialization-core:1.5.1")
+    compileForSpigot("org.jetbrains.kotlinx:kotlinx-serialization-core:1.6.0")
 
     implementation("com.charleskorn.kaml:kaml:0.55.0")
     implementation("io.github.dkim19375:dkim-bukkit-core:3.4.3"){
