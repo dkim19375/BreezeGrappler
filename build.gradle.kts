@@ -3,8 +3,8 @@ import me.dkim19375.dkimgradle.util.getVersionString
 import me.dkim19375.dkimgradle.util.setupTasksForMC
 
 plugins {
-    kotlin("jvm") version "1.9.0"
-    kotlin("plugin.serialization") version "1.9.0"
+    kotlin("jvm") version "1.9.10"
+    kotlin("plugin.serialization") version "1.9.10"
 
     id("org.cadixdev.licenser") version "0.6.1"
     id("io.papermc.paperweight.userdev") version "1.5.5"
@@ -35,8 +35,8 @@ dependencies {
 
     compileForSpigot("net.kyori:adventure-extra-kotlin:4.14.0")
     compileForSpigot("dev.jorel:commandapi-bukkit-kotlin:9.1.0")
-    compileForSpigot("org.jetbrains.kotlin:kotlin-stdlib:1.9.0")
-    compileForSpigot("org.jetbrains.kotlin:kotlin-reflect:1.9.0")
+    compileForSpigot("org.jetbrains.kotlin:kotlin-stdlib:1.9.10")
+    compileForSpigot("org.jetbrains.kotlin:kotlin-reflect:1.9.10")
     compileForSpigot("org.jetbrains.kotlinx:kotlinx-serialization-core:1.6.0")
 
     implementation("com.charleskorn.kaml:kaml:0.55.0")
