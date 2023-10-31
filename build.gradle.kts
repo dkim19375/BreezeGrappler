@@ -3,7 +3,7 @@ import me.dkim19375.dkimgradle.util.getVersionString
 import me.dkim19375.dkimgradle.util.setupTasksForMC
 
 plugins {
-    kotlin("jvm") version "1.9.10"
+    kotlin("jvm") version "1.9.20"
     kotlin("plugin.serialization") version "1.9.10"
 
     id("org.cadixdev.licenser") version "0.6.1"
