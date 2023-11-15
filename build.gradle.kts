@@ -30,7 +30,7 @@ dependencies {
     paperweight.paperDevBundle(getVersionString("1.20.1"))
 
     compileOnly("me.clip:placeholderapi:2.11.2")
-    compileOnly("org.jetbrains:annotations:24.0.1")
+    compileOnly("org.jetbrains:annotations:24.1.0")
     compileOnly("dev.jorel:commandapi-bukkit-kotlin:9.2.0")
 
     compileForSpigot("net.kyori:adventure-extra-kotlin:4.14.0")
