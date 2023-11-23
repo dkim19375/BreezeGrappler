@@ -35,8 +35,8 @@ dependencies {
 
     compileForSpigot("net.kyori:adventure-extra-kotlin:4.14.0")
     compileForSpigot("dev.jorel:commandapi-bukkit-kotlin:9.2.0")
-    compileForSpigot("org.jetbrains.kotlin:kotlin-stdlib:1.9.20")
-    compileForSpigot("org.jetbrains.kotlin:kotlin-reflect:1.9.20")
+    compileForSpigot("org.jetbrains.kotlin:kotlin-stdlib:1.9.21")
+    compileForSpigot("org.jetbrains.kotlin:kotlin-reflect:1.9.21")
     compileForSpigot("org.jetbrains.kotlinx:kotlinx-serialization-core:1.6.1")
 
     implementation("com.charleskorn.kaml:kaml:0.55.0")
