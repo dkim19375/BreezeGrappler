@@ -4,7 +4,7 @@ import me.dkim19375.dkimgradle.util.setupTasksForMC
 
 plugins {
     kotlin("jvm") version "1.9.21"
-    kotlin("plugin.serialization") version "1.9.20"
+    kotlin("plugin.serialization") version "1.9.21"
 
     id("org.cadixdev.licenser") version "0.6.1"
     id("io.papermc.paperweight.userdev") version "1.5.10"
