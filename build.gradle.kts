@@ -9,7 +9,7 @@ plugins {
     id("org.cadixdev.licenser") version "0.6.1"
     id("io.papermc.paperweight.userdev") version "1.5.11"
     id("com.github.johnrengelman.shadow") version "8.1.1"
-    id("io.github.dkim19375.dkim-gradle") version "1.3.7"
+    id("io.github.dkim19375.dkim-gradle") version "1.3.8"
 }
 
 group = "me.dkim19375"
